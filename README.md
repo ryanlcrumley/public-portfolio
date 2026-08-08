@@ -1,6 +1,6 @@
 # Public Portfolio
 
-A curated selection of my work in data science, machine learning, scientific computing, and environmental research including domains like the cryosphere, forestry, and hydrology.
+A curated selection of my work in data science, machine learning, scientific computing, and environmental research, including work in the cryosphere, forestry, and hydrology.
 
 This portfolio represents work that I can share publicly, along with selected descriptions of research and software projects that cannot be made public. My work often sits at the intersection of scientific research and computational methods, with an emphasis on developing practical workflows, machine learning approaches, and reusable scientific software.
 
@@ -19,7 +19,7 @@ Major contributor from conceptualization through implementation. I designed the 
 
 ### [SnowCloudMetrics](https://github.com/SnowCloudMetrics/snowcloudmetrics)
 
-A scientific software project for analyzing snow packs from the MODIS satellite and other cloud-related environmental data.
+A scientific software project for analyzing snowpack using MODIS satellite data and other environmental datasets.
 
 **My contribution:**  
 Initial idea and major contributor to the project's code and scientific development during my PhD. I contributed substantially to the design and implementation of the workflows and to the associated research publication.
@@ -67,7 +67,7 @@ Creator and developer. I developed the ideas, designed the workflows, and implem
 
 ### [CHM-MS-Net: Canopy Height Model](https://github.com/lanl/CHM-MS-net-Canopy-Height-Model)
 
-Research software for canopy-height modeling from visible wavelength, panchromatic remote-sensing data.
+Research software for canopy-height modeling from panchromatic visible-wavelength remote-sensing data. This work is part of my current research with the VisibleSnow project. 
 
 **My contribution:**  
 Contributor to the project with a focus on improving and developing computational workflows. This work is part of my current research with the VisibleSnow project.
@@ -89,7 +89,7 @@ Over several years, I developed early functional implementations of several work
 
 Across these projects, my work spans the full process of developing computational approaches to scientific problems:
 
-**Scientific question → conceptualization → workflow design → data processing → machine learning → implementation → evaluation/validation → research products**
+**Scientific question → conceptualization → workflow design → data processing → machine learning → implementation → eval and ation/validation → research products**
 
 My experience includes:
 

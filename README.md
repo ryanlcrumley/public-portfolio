@@ -78,7 +78,7 @@ Contributor to the project with a focus on improving and developing computationa
 
 ### [DAPPER](https://github.com/lanl/dapper)
 
-Collaborative scientific software for data assimilation and related computational workflows.
+Collaborative scientific software for Earth System model input data prep, data assimilation, model evaluation, and related computational workflows.
 
 **My contribution:**  
 Over several years, I developed early functional implementations of several workflows that subsequently informed workflows in DAPPER. During DAPPER's development, I consulted regularly with the primary developer on workflow design and implementation. While I was not a direct Git contributor to the DAPPER repository, my earlier code and technical work served as a foundation for several of its workflows.

@@ -67,7 +67,7 @@ Creator and developer. I developed the ideas, designed the workflows, and implem
 
 ### [CHM-MS-Net: Canopy Height Model](https://github.com/lanl/CHM-MS-net-Canopy-Height-Model)
 
-Research software for canopy-height modeling from panchromatic visible-wavelength remote-sensing data. This work is part of my current research with the VisibleSnow project. 
+Research software for canopy-height modeling from panchromatic visible-wavelength remote-sensing data.
 
 **My contribution:**  
 Contributor to the project with a focus on improving and developing computational workflows. This work is part of my current research with the VisibleSnow project.
@@ -89,7 +89,7 @@ Over several years, I developed early functional implementations of several work
 
 Across these projects, my work spans the full process of developing computational approaches to scientific problems:
 
-**Scientific question → conceptualization → workflow design → data processing → machine learning → implementation → eval and ation/validation → research products**
+**Scientific question → conceptualization → workflow design → data processing → machine learning → implementation luation and validation → research products**
 
 My experience includes:
 

@@ -1,6 +1,6 @@
 # Public Portfolio
 
-A curated selection of my work in **data science, machine learning, scientific computing, and environmental research**.
+A curated selection of my work in data science, machine learning, scientific computing, and environmental research including domains like the cryosphere, forestry, and hydrology.
 
 This portfolio represents work that I can share publicly, along with selected descriptions of research and software projects that cannot be made public. My work often sits at the intersection of scientific research and computational methods, with an emphasis on developing practical workflows, machine learning approaches, and reusable scientific software.
 
@@ -8,23 +8,23 @@ This portfolio represents work that I can share publicly, along with selected de
 
 ### [fSCAml](https://github.com/lanl/fSCAml)
 
-Machine learning workflows for fractional snow-covered area (fSCA) estimation.
+Machine learning workflows for fractional snow-covered area (fSCA) estimation in the Upper Colorado River Basin.
 
 **My contribution:**  
-Major contributor from conceptualization through implementation. I designed the machine learning approaches and developed the project's code and workflows. This work is also part of a first-author research publication.
+Major contributor from conceptualization through implementation. I designed the machine learning approaches and developed the project's code and workflows along with a small team of scientists. This work is also part of an upcoming first-author research publication.
 
-**Demonstrates:** Machine learning · scientific computing · environmental data · workflow design · research software
+**Demonstrates:** Machine learning · scientific computing · large-scale environmental data · workflow design · research software
 
 ---
 
 ### [SnowCloudMetrics](https://github.com/SnowCloudMetrics/snowcloudmetrics)
 
-A scientific software project for analyzing snow and cloud-related environmental data.
+A scientific software project for analyzing snow packs from the MODIS satellite and other cloud-related environmental data.
 
 **My contribution:**  
-Initial idea and major contributor to the project's code and scientific development. I contributed substantially to the design and implementation of the workflows and to the associated research publication.
+Initial idea and major contributor to the project's code and scientific development during my PhD. I contributed substantially to the design and implementation of the workflows and to the associated research publication.
 
-**Demonstrates:** Scientific software · data science · environmental data · Python · research collaboration
+**Demonstrates:** Scientific software · data science · environmental data · Google Earth Engine · research collaboration
 
 ---
 
@@ -33,20 +33,20 @@ Initial idea and major contributor to the project's code and scientific developm
 A toolkit for exploring relationships between snow conditions and wildfire-related environmental processes.
 
 **My contribution:**  
-Creator and developer. I developed the ideas, designed the workflows, and implemented the code.
+Creator and developer. I developed the ideas, designed the workflows, and implemented the code for a non-profit client.
 
-**Demonstrates:** Python · data science · environmental science · workflow design · independent software development
+**Demonstrates:** Python · data science · environmental science · workflow design · independent software development · Google Earth Engine
 
 ---
 
 ### SnowSatML — Private Research Project
 
-Machine learning approaches for predicting snow depth in the Arctic using ICESat-2 observations and gradient-boosted machine learning.
+Machine learning approach for predicting snow depth in the Arctic using ICESat-2 observations and gradient-boosted machine learning.
 
 **My contribution:**  
-Major contributor from conceptualization through implementation. I designed and implemented the machine learning workflows and associated analysis. This work is part of a joint-first-author research publication.
+Major contributor from conceptualization through implementation. I designed and implemented the machine learning workflows and associated analysis. This work is part of a joint-first-author research publication and a long-term scientific project in the Arctic.
 
-**Demonstrates:** Machine learning · remote sensing · geospatial data · scientific research · end-to-end ML development
+**Demonstrates:** Machine learning · remote sensing · geospatial data · scientific research · end-to-end ML development · atmospheric reanalysis products
 
 *Code and data are not currently publicly available.*
 
@@ -59,7 +59,7 @@ Machine learning and computer-vision workflows for estimating snow cover from vi
 **My contribution:**  
 Creator and developer. I developed the ideas, designed the workflows, and implemented the code and machine learning approaches.
 
-**Demonstrates:** Machine learning · computer vision · image analysis · unsupervised learning · TabPFN · workflow design
+**Demonstrates:** Machine learning · computer vision · image analysis · unsupervised learning · TabPFN · workflow design · remote sensing
 
 *Code and data are not currently publicly available.*
 
@@ -67,12 +67,12 @@ Creator and developer. I developed the ideas, designed the workflows, and implem
 
 ### [CHM-MS-Net: Canopy Height Model](https://github.com/lanl/CHM-MS-net-Canopy-Height-Model)
 
-Research software for canopy-height modeling from remote-sensing data.
+Research software for canopy-height modeling from visible wavelength, panchromatic remote-sensing data.
 
 **My contribution:**  
-Contributor to the project with a focus on improving and developing computational workflows. This work is part of my current research area.
+Contributor to the project with a focus on improving and developing computational workflows. This work is part of my current research with the VisibleSnow project.
 
-**Demonstrates:** Machine learning · remote sensing · scientific computing · workflow development · collaborative research
+**Demonstrates:** Machine learning · remote sensing · scientific computing · workflow development · collaborative research · GPUs · Convolutional Neural Networks
 
 ---
 
@@ -89,13 +89,13 @@ Over several years, I developed early functional implementations of several work
 
 Across these projects, my work spans the full process of developing computational approaches to scientific problems:
 
-**Scientific question → conceptualization → workflow design → data processing → machine learning → implementation → evaluation → research**
+**Scientific question → conceptualization → workflow design → data processing → machine learning → implementation → evaluation/validation → research products**
 
 My experience includes:
 
 - **Machine learning:** supervised and unsupervised learning, model development, feature design, evaluation, and applied ML research
 - **Scientific computing:** translating scientific questions into computational workflows and reusable software
-- **Remote sensing & environmental data:** working with satellite observations, imagery, snow, wildfire, and other environmental datasets
+- **Remote sensing & environmental datasets:** working with satellite observations, imagery, snow, wildfire, and other environmental datasets
 - **Software development:** designing and implementing research-oriented tools and workflows
 - **Prototyping:** developing early functional implementations that can evolve into larger collaborative systems
 - **Research collaboration:** working across scientific and software-development roles to turn ideas into implemented methods
